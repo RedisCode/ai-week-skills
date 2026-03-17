@@ -1,0 +1,7 @@
+interface:
+  display_name: "Basecamp Internal Apps"
+  short_description: "Design Basecamp-compatible internal tools"
+  default_prompt: "Use $basecamp-internal-apps to design or scaffold an internal application that should fit the Basecamp platform conventions."
+
+policy:
+  allow_implicit_invocation: true
