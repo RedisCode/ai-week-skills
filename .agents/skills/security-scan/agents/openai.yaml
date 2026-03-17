@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Scan"
+  short_description: "Scan a code directory for risky dependencies, lockfiles, containers, actions, and suspicious patterns"
+  default_prompt: "Use $security-scan to scan this code directory, inventory third-party components from manifests and lockfiles, review workflow actions and container files, and flag anything that looks suspicious or unusually risky."
